@@ -1,0 +1,14 @@
+D:\LAP TRINH\noi dung\c#\thanh\p2.1\Diamond\bin\Debug\net7.0\Diamond.exe
+D:\LAP TRINH\noi dung\c#\thanh\p2.1\Diamond\bin\Debug\net7.0\Diamond.deps.json
+D:\LAP TRINH\noi dung\c#\thanh\p2.1\Diamond\bin\Debug\net7.0\Diamond.runtimeconfig.json
+D:\LAP TRINH\noi dung\c#\thanh\p2.1\Diamond\bin\Debug\net7.0\Diamond.dll
+D:\LAP TRINH\noi dung\c#\thanh\p2.1\Diamond\bin\Debug\net7.0\Diamond.pdb
+D:\LAP TRINH\noi dung\c#\thanh\p2.1\Diamond\obj\Debug\net7.0\Diamond.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAP TRINH\noi dung\c#\thanh\p2.1\Diamond\obj\Debug\net7.0\Diamond.AssemblyInfoInputs.cache
+D:\LAP TRINH\noi dung\c#\thanh\p2.1\Diamond\obj\Debug\net7.0\Diamond.AssemblyInfo.cs
+D:\LAP TRINH\noi dung\c#\thanh\p2.1\Diamond\obj\Debug\net7.0\Diamond.csproj.CoreCompileInputs.cache
+D:\LAP TRINH\noi dung\c#\thanh\p2.1\Diamond\obj\Debug\net7.0\Diamond.dll
+D:\LAP TRINH\noi dung\c#\thanh\p2.1\Diamond\obj\Debug\net7.0\refint\Diamond.dll
+D:\LAP TRINH\noi dung\c#\thanh\p2.1\Diamond\obj\Debug\net7.0\Diamond.pdb
+D:\LAP TRINH\noi dung\c#\thanh\p2.1\Diamond\obj\Debug\net7.0\Diamond.genruntimeconfig.cache
+D:\LAP TRINH\noi dung\c#\thanh\p2.1\Diamond\obj\Debug\net7.0\ref\Diamond.dll
